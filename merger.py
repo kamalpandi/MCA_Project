@@ -2,7 +2,7 @@ import os
 import csv
 
 # Define the directory where your CSV files are stored
-directory = 'C:/Users/vibi/Documents/clg/Data Science/project covid/py/csv'
+directory = 'MCA_Project\Raw_data'
 
 # Loop over each file in the directory
 for filename in os.listdir(directory):
